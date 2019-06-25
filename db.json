@@ -8,7 +8,7 @@
   "taskStatusType": [
     { "taskStatus": 1, "Display": "Not started"},
     { "taskStatus": 2, "Display": "In-progress"}
-  ]
+  ],
   "profile": {
     "name": "typicode"
   }
