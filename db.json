@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    { "id": 1, "formtype": 300, "lender_id": "L1", "due_date": 6/30/2019, "approver": 'U4'},
+    { "id": 2, "formtype": 400, "lender_id": "L1", "due_date": 6/27/2019, "approver": 'U2' },
+    { "id": 3, "formtype": 500, "lender_id": "L1", "due_date": 7/30/2019, "approver": 'Any' },
+    { "id": 4, "formtype": 600, "lender_id": "L2", "due_date": 6/30/2019, "approver": 'U1' }
+  ],
+  "taskStatusType": [
+    { "taskStatus": 1, "Display": "Not started"},
+    { "taskStatus": 2, "Display": "In-progress"}
+  ]
+}
